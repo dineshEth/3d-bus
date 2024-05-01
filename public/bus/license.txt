@@ -1,0 +1,11 @@
+Model Information:
+* title:	PAZ-652 (clean)
+* source:	https://sketchfab.com/3d-models/paz-652-clean-bd009ded8e524accb7e1f559a3dda99c
+* author:	romunql (https://sketchfab.com/romunql)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PAZ-652 (clean)" (https://sketchfab.com/3d-models/paz-652-clean-bd009ded8e524accb7e1f559a3dda99c) by romunql (https://sketchfab.com/romunql) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
