@@ -6,6 +6,7 @@ function App() {
     <main className='w-full bg-[#acacb7] min-h-screen'>
       <div className='max-w-7xl gap-4 w-full flex flex-col justify-center items-center mx-auto'>
         <h1 className='text-bold py-2 text-center text-8xl font-extrabold text-[#120621]'>3D Bus</h1>
+        <p className="text-red-500">It will take sometime, DON NOT REFRESH</p>
         <div className="w-full">
           <ComputerCanvas />
         </div>
